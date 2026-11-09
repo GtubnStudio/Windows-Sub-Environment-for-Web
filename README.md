@@ -1,5 +1,5 @@
 # Windows Sub Environment for Web (WSEW)
-A desktop Web OS, built on Electron, Node.js and Chromium.
+A desktop Web Environment, built on Electron, Node.js and Chromium.
 
 **Made by Gtubn Studio**
 
