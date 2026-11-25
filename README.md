@@ -4,7 +4,7 @@ A desktop Web Environment, built on Electron, Node.js and Chromium.
 **Made by Gtubn Studio**
 
 This project is licensed under the Apache License 2.0.
-Part of the code was generated with the assistance of Doubao AI, and manually reviewed and modified by the author.
+Part of the code was generated with the assistance of AI, and manually reviewed and modified by the author.
 
 ### Third-party dependencies
 - Electron: MIT License
